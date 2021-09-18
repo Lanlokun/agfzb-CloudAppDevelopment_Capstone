@@ -33,6 +33,7 @@ ALLOWED_HOSTS = ["lanlokun.eu-gb.mybluemix.net", "localhost"]
 # Application definition
 
 INSTALLED_APPS = [
+    
     'djangoapp.apps.DjangoappConfig',
     'django.contrib.admin',
     'django.contrib.auth',
